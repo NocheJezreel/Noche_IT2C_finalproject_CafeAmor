@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<About>
+	<content>
+		<title>Cafe' Amor</title>
+		<home>Home</home>
+		<about>About</about>
+		<service>Service</service>
+		<coffservice>Coffee Service</coffservice>
+		<testimonial>Testimonial</testimonial>
+		<blog>Blog</blog>
+		<contact>Contact Us</contact>
+		<review>Reviews</review>
+		<call_us>Call Us +639054209497</call_us>
+		<email1>jezreelnoche@gmail.com</email1>
+		<about1>Jezreel Dela Santa</about1>
+		<descrip>Caffeine- It maintains my sunny personality.</descrip>
+ 		<button>View Facebook Profile</button>
+		<input_email>Enter your email</input_email>
+		<button1>Subscribe</button1>
+		<coffee>Coffee</coffee>
+		<follow>Follow Us</follow>
+		<product>Red Coffee</product>
+		<product1>Black Coffee</product1>
+		<product2>Chocolate Coffee</product2>
+		<product3>Green Tea</product3>
+		<location>Makawayan Torrijos Marinduque</location>
+		<call_us>Call Us +639054209497</call_us>
+		<email1>jezreelnoche@gmail.com</email1>
+		<footer>© 2023 All Rights Reserved.  </footer>
+		<footer1>Privacy Policy</footer1>
+	</content>
+</About>

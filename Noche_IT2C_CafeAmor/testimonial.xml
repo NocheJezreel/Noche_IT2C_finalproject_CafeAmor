@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Testimonial>
+	<content>
+		<title>Cafe' Amor</title>
+		<home>Home</home>
+		<about>About</about>
+		<service>Service</service>
+		<testimonial>Reviews</testimonial>
+		<blog>Blog</blog>
+		<contact>Contact Us</contact>
+		<number>+639054209497</number>
+		<email>jezreelnoche16@gmail.com</email>
+		<main>Reviews</main>
+		<description>We recently visited the Cafe Amor and had a wonderful experience. The coffee was delicious, with great flavor and aroma. We also found the staff to be friendly and helpful in helping us decide which coffee we wanted to try.</description>
+		<name>Jezreel Dela Santa</name>
+		<customer>Customer</customer>
+		<description1>The atmosphere of the cafe was inviting and cozy, making it an ideal spot for relaxing over a cup of coffee or catching up with friends. Additionally, they offer pastries that are freshly made each day that pair perfectly with their specialty coffees!</description1>
+		<name1>Renna Mae Regio</name1>
+		<customer1>Customer</customer1>
+		<description2>I was very pleased with the quality of coffee they served as well as their friendly customer service.The coffee was amazing! It had a great flavor that was full-bodied and robust without being too acidic or bitter. The barista took time to explain different types of coffees available and made sure I got exactly what I wanted.</description2>
+		<name2>Gilbert Ricamara</name2>
+		<customer2>Customer</customer2>
+		<main1>Previous</main1>
+		<main2>Next</main2>
+		<main3>Cafe' Amor</main3>
+		<button>Subscribe</button>
+		<main4>Menu</main4>
+		<button1>Home</button1>
+		<button2>About</button2>
+		<button3>Coffee Service</button3>
+		<button4>Reviews</button4>
+		<button5>Blog</button5>
+		<button6>Contact Us</button6>
+		<main5>Coffee</main5>
+		<product>Black Coffee</product>
+		<product1>Red Coffee</product1>
+		<product2>Coffee Service</product2>
+		<product3>Green Tea</product3>
+		<product4>Chocolate Coffee</product4>
+		<main6>Follow Us</main6>
+		<location>Makawayan Torrijos Marinduque</location>
+		<number>Call +639054209497</number>
+		<email>jezreelnoche16@gmail.com</email>
+		<footer>© 2023 All Rights Reserved.  </footer>
+		<footer1>Privacy Policy</footer1>
+
+
+	</content>
+</Testimonial>		

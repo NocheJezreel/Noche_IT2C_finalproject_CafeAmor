@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Redcoffee>
+	<content>
+		<title>Cafe' Amor</title>
+		<home>Home</home>
+		<about>About</about>
+		<service>Service</service>
+		<coffservice>Coffee Service</coffservice>
+		<testimonial>Testimonial</testimonial>
+		<blog>Blog</blog>
+		<contact>Contact Us</contact>
+		<service1>Coffee Services</service1>
+		<product1>Red Coffee</product1>
+		<product>Black Coffee</product>
+		<product2>Chocolate Coffee</product2>
+		<button6>Subscribe</button6>
+		<content1>Red coffee gets its name from its distinctive ruby-red color and sweet flavor profile reminiscent of berries and other fruits. It's made using a special type of bean called Coffea canephora (or Robusta) which grows in Southeast Asia and Africa at higher altitudes than Arabica beans do—resulting in a stronger flavor with less acidity than traditional coffees like espresso or Americano blends.  Red coffees have been gaining traction among specialty cafes due to their complexity and intense aroma; they also pair well with both sweet foods like pastries as well as savory dishes such as eggs Benedict for brunch!  
+		For those looking for something different when it comes to their daily cup o' joe, red coffee may be just the thing! This unique brew offers an interesting twist on traditional flavors while still being familiar enough not to overwhelm your taste buds—so why not give it a try?</content1>
+		<button>Read More</button>
+		<menu>Menu</menu>
+		<coffee>Coffee</coffee>
+		<product3>Green Tea</product3>
+		<follow>Follow Us</follow>
+		<location>Makawayan Torrijos Marinduque</location>
+		<call_us>Call Us +639054209497</call_us>
+		<email1>jezreelnoche@gmail.com</email1>
+		<footer>© 2023 All Rights Reserved.  </footer>
+		<footer1>Privacy Policy</footer1>
+	</content>
+</Redcoffee>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Contact>
+	<content>
+		<title>Cafe' Amor</title>
+		<home>Home</home>
+		<about>About</about>
+		<service>Service</service>
+		<coffservice>Coffee Service</coffservice>
+		<testimonial>Testimonial</testimonial>
+		<blog>Blog</blog>
+		<contact>Contact Us</contact>
+		<reviews>Reviews</reviews>
+		<message>Message Us Here</message>
+		<email_us>Email Us Here</email_us>
+		<input_name>Your Name</input_name>
+		<input_number>Phone Number</input_number>
+		<input_email>Email</input_email>
+		<input_message>Message</input_message>
+		<input_email1>Enter your email</input_email1>
+		<button>Send</button>
+		<button1>Subscribe</button1>
+		<menu>Menu</menu>
+		<coffee>Coffee</coffee>
+		<product>Red Coffee</product>
+		<product1>Black Coffee</product1>
+		<product2>Chocolate Coffee</product2>
+		<product3>Green Tea</product3>
+		<follow>Follow Us</follow>
+		<location>Makawayan Torrijos Marinduque</location>
+		<call_us>Call Us +639054209497</call_us>
+		<email1>jezreelnoche@gmail.com</email1>
+		<footer>© 2023 All Rights Reserved.  </footer>
+		<footer1>Privacy Policy</footer1>
+
+	</content>
+</Contact>

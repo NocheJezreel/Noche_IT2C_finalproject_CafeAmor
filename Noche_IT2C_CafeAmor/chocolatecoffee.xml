@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Chocolatecoffee>
+	<content>
+		<title>Cafe' Amor</title>
+		<home>Home</home>
+		<about>About</about>
+		<service>Service</service>
+		<coffservice>Coffee Service</coffservice>
+		<testimonial>Testimonial</testimonial>
+		<blog>Blog</blog>
+		<contact>Contact Us</contact>
+		<service1>Coffee Services</service1>
+		<product>Red Coffee</product>
+		<product1>Black Coffee</product1>
+		<product2>Chocolate Coffee</product2>
+		<button6>Subscribe</button6>
+		<content1>Chocolate coffee is made by mixing freshly brewed espresso with melted dark chocolate or cocoa powder to create a rich, creamy drink that is sure to satisfy any sweet tooth. The combination of bitter espresso and sweet chocolate creates an indulgent flavor that pairs perfectly with your favorite breakfast pastry or afternoon snack. Plus, it’s easy to customize this beverage depending on how strong you like your coffee – simply adjust the amount of espresso used! 
+		For those who prefer something lighter but still crave their daily caffeine fix, white mocha offers all the same great taste without as much intensity from the coffee flavor. To make this version at home, replace traditional black espresso with decaffeinated shots before adding steamed milk and white chocolate syrup for sweetness balance out its richness.. For added flair (and protein!), top off your cup with whipped cream sprinkled cinnamon sugar blend! </content1>
+		<button>Read More</button>
+		<menu>Menu</menu>
+		<coffee>Coffee</coffee>
+		<product3>Green Tea</product3>
+		<follow>Follow Us</follow>
+		<location>Makawayan Torrijos Marinduque</location>
+		<call_us>Call Us +639054209497</call_us>
+		<email1>jezreelnoche@gmail.com</email1>
+		<footer>© 2023 All Rights Reserved.  </footer>
+		<footer1>Privacy Policy</footer1>
+	</content>
+</Chocolatecoffee>

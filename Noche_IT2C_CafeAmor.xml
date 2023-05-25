@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-project>
+  <title>Café Amor</title>
+  <link>https://github.com/NocheJezreel/Noche_IT2C_finalproject_CafeAmor</link>
+  <description>Welcome to Café Amor, the premier website for all your coffee needs! We offer an extensive selection of high-quality coffees from around the world that are sure to please even the most discerning palates. Our beans are carefully sourced and roasted in small batches to ensure maximum freshness and flavor. This website is designed to advertise the business and promote our products worldwide.</description>
+  <author>
+    <name>Jezreel Dela Santa Noche</name>
+    <email>jezreelnoche16@email.com</email>
+  </author>
+  <created>May 24, 2023</created>
+  <pages>
+    <page>
+      <title>Cafe' Amor Website</title>
+      <php>index.php</php>
+      <xml>index.xml</xml>
+    </page>
+    <page>
+      <title>Cafe' Amor Services</title>
+      <php>service.php</php>
+      <xml>service.xml</xml>
+    </page>
+    <page>
+      <title>About Cafe' Amor</title>
+      <php>about.php</php>
+      <xml>about.xml</xml>
+    </page>
+    <page>
+      <title>Cafe' Amor Contacts</title>
+      <php>contact.php</php>
+      <xml>contact.xml</xml>
+    </page>
+    <page>
+      <title>Cafe' Amor Blog</title>
+      <php>blog.php</php>
+      <xml>blog.xml</xml>
+    </page>
+    <page>
+      <title>Cafe' Amor Coffee Services</title>
+      <php>coffeeservice.php</php>
+      <xml>coffeeservice.xml</xml>
+    </page>
+    <page>
+      <title>Cafe' Amor Testimonial</title>
+      <php>testimonial.php</php>
+      <xml>testimonial.xml</xml>
+    </page>
+    <page>
+      <title>Green Tea Cafe' Amor</title>
+      <php>greentea.php</php>
+      <xml>greentea.xml</xml>
+    </page>
+    <page>
+      <title>Black Coffee Cafe' Amor</title>
+      <php>blackcoffee.php</php>
+      <xml>blackcoffee.xml</xml>
+    </page>
+    <page>
+      <title>Red Coffee Cafe' Amor</title>
+      <php>redcoffee.php</php>
+      <xml>redcoffee.xml</xml>
+    </page>
+    <page>
+      <title>Chocolate Coffee Cafe' Amor</title>
+      <php>chocolatecoffee.php</php>
+      <xml>chocolatecoffee.xml</xml>
+    </page>
+    <page>
+      <title>Privacy Policy of Cafe' Amor</title>
+      <php>privacypolicy.php</php>
+      <xml>privacypolicy.xml</xml>
+    </page>
+    <page>
+      <title>Jezreel Dela Santa's Profile</title>
+      <php>profile1.php</php>
+      <xml>profile1.xml</xml>
+    </page>
+    <page>
+      <title>Renna Mae Regio's Profile</title>
+      <php>profile2.php</php>
+      <xml>profile2.xml</xml>
+    </page>
+    <page>
+      <title>Gilbert Ricamara's Profile</title>
+      <php>profile3.php</php>
+      <xml>profile3.xml</xml>
+    </page>
+  </pages>
+</web-project>

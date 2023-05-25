@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Blackcoffee>
+	<content>
+		<title>Cafe' Amor</title>
+		<home>Home</home>
+		<about>About</about>
+		<service>Service</service>
+		<coffservice>Coffee Service</coffservice>
+		<testimonial>Testimonial</testimonial>
+		<blog>Blog</blog>
+		<contact>Contact Us</contact>
+		<service1>Coffee Services</service1>
+		<product>Red Coffee</product>
+		<product1>Black Coffee</product1>
+		<product2>Chocolate Coffee</product2>
+		<button6>Subscribe</button6>
+		<content1>Black coffee is made by brewing ground beans with hot water in a French press or espresso machine. The result is an intense and flavorful cup of joe that packs quite a punch. It has no added sugar, milk, creamer or other additives – just pure caffeinated goodness! 
+		The taste of black coffee can vary depending on what type of bean you use and how it was roasted. Lightly roasted beans tend to have more acidity while darker roasts are richer in body and often described as having chocolatey notes. Arabica beans are known for their smoothness while Robusta varieties offer more bitterness but also greater caffeine content per cup than Arabica coffees do.
+		Black Coffee offers many health benefits too! Studies show that drinking two cups per day may reduce your risk for certain types of cancer as well as heart disease due to its antioxidant properties which help protect cells from damage caused by free radicals in our bodies’ systems . Additionally , regular consumption has been linked with improved mental clarity , enhanced alertness , increased energy levels throughout the day - all without adding any extra calories!</content1>
+		<button>Read More</button>
+		<menu>Menu</menu>
+		<coffee>Coffee</coffee>
+		<product3>Green Tea</product3>
+		<follow>Follow Us</follow>
+		<location>Makawayan Torrijos Marinduque</location>
+		<call_us>Call Us +639054209497</call_us>
+		<email1>jezreelnoche@gmail.com</email1>
+		<footer>© 2023 All Rights Reserved.  </footer>
+		<footer1>Privacy Policy</footer1>
+	</content>
+</Blackcoffee>

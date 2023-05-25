@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<About>
+	<content>
+		<title>Cafe' Amor</title>
+		<home>Home</home>
+		<about>About</about>
+		<service>Service</service>
+		<coffservice>Coffee Service</coffservice>
+		<testimonial>Testimonial</testimonial>
+		<blog>Blog</blog>
+		<contact>Contact Us</contact>
+		<review>Reviews</review>
+		<call_us>Call Us +639054209497</call_us>
+		<email1>jezreelnoche@gmail.com</email1>
+		<about1>About Us</about1>
+		<descrip>Welcome to Cafe' Amor, your one-stop shop for all of your online cafe needs! We are proud to offer a wide variety of services that will make it easy and convenient for you to get the most out of your online cafe experience. Whether you're looking for a place to grab some coffee, chat with friends or just relax and unwind after a long day, we have something for everyone at Cafe' Amor.
+		At Cafe' Amor, our goal is simple: provide quality service in an inviting atmosphere so that customers can enjoy their time here as much as possible. Our experienced staff is always on hand to answer any questions or concerns you may have about our products and services. Plus, we offer free Wi-Fi access throughout the entire café so that customers can stay connected while they’re here!
+		Cafe' Amor also offers delicious food options from breakfast sandwiches made fresh daily right up until dinner entrees like pasta dishes and salads served all day long — there's something sure to please every palette! And if you're looking for something sweet afterwards? We've got plenty of baked goods like cookies and muffins too! 
+
+ 		Lastly but not leastly - don't forget about our signature drinks menu which includes hot beverages such as lattes and cappuccinos along with cold drinks including smoothies and shakes plus everything in between — no matter what mood strikes us when visiting Cafe' Amor - there's definitely something available tailored specifically towards it!. So come visit us soon – whether its early morning before work or late night after hours –we'd love nothing more than having each customer leave feeling satisfied by their experience at Café Amor!
+ 		</descrip>
+ 		<button>Read More</button>
+		<input_email>Enter your email</input_email>
+		<button1>Subscribe</button1>
+		<coffee>Coffee</coffee>
+		<follow>Follow Us</follow>
+		<product>Red Coffee</product>
+		<description>It is made from red beans, which are small, dark-colored beans native to Central and South America.</description>
+		<product1>Black Coffee</product1>
+		<description1>Black coffee is a beverage made from roasted coffee beans. </description1>
+		<product2>Chocolate Coffee</product2>
+		<description2>It's a simple drink that combines creamy dark chocolate and freshly brewed coffee.</description2>
+		<product3>Green Tea</product3>
+		<location>Makawayan Torrijos Marinduque</location>
+		<call_us>Call Us +639054209497</call_us>
+		<email1>jezreelnoche@gmail.com</email1>
+		<footer>© 2023 All Rights Reserved.  </footer>
+		<footer1>Privacy Policy</footer1>
+	</content>
+</About>

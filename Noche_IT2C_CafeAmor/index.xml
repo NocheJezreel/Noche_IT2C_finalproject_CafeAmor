@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Home>
+	<navbar>
+		<title>Cafe' Amor</title>
+		<home>Home</home>
+		<about>About</about>
+		<service>Service</service>
+		<coffservice>Coffee Service</coffservice>
+		<testimonial>Testimonial</testimonial>
+		<blog>Blog</blog>
+		<contact>Contact Us</contact>
+		<hi>Hi!</hi>
+		<content>Welcome to Cafe' Amor, where we provide the freshest and most delicious brewed coffee around! Our team of baristas are passionate about creating a unique and flavorful experience for our customers.</content>
+		<button>Buy Now!</button>
+		<ingredient>Ingredients</ingredient>
+		<content2>Each cup of coffee is made with care using only the highest quality ingredients. We start by selecting freshly roasted beans from local farms that have been harvested at their peak flavor. Then we grind them to perfection before brewing in small batches that ensure maximum freshness and taste every time you visit us.</content2>
+		<button1>Reserve Now!</button1>
+		<button2>Read More</button2>
+		<title1>Cafe' Amor</title1>
+		<content3>Come into Cafe' Amor today – grab yourself one (or more!) cups of freshly brewed goodness – relax and enjoy!</content3>
+		<button3>Visit Us!</button3>
+		<span>Previous</span>
+		<span1>Next</span1>
+		<service1>Coffee Services</service1>
+		<content4>Welcome to Cafe' Amor, your premier destination for all things coffee! Whether you’re a die-hard espresso fan or an occasional latte sipper, we have something to suit every taste.</content4>
+		<product>Red Coffee</product>
+		<description>It is made from red beans, which are small, dark-colored beans native to Central and South America.</description>
+		<product1>Black Coffee</product1>
+		<description1>Black coffee is a beverage made from roasted coffee beans. </description1>
+		<product2>Chocolate Coffee</product2>
+		<description2>It's a simple drink that combines creamy dark chocolate and freshly brewed coffee.</description2>
+		<button4>Book Now Table</button4>
+		<register>Get In Touch</register>
+		<input_name>Your Name</input_name>
+		<input_number>Phone Number</input_number>
+		<input_email>Email</input_email>
+		<input_message>Message</input_message>
+		<button5>Send</button5>
+		<review>Reviews</review>
+		<feedback>We recently visited the Cafe' Amor and had a wonderful experience. The coffee was delicious, with great flavor and aroma. We also found the staff to be friendly and helpful in helping us decide which coffee we wanted to try.</feedback>
+		<user>Jezreel Dela Santa</user>
+		<label>Customer</label>
+		<feedback1>The atmosphere of the cafe was inviting and cozy, making it an ideal spot for relaxing over a cup of coffee or catching up with friends. Additionally, they offer pastries that are freshly made each day that pair perfectly with their specialty coffees!</feedback1>
+		<user1>Renna Mae Regio</user1>
+		<feedback2>I was very pleased with the quality of coffee they served as well as their friendly customer service.The coffee was amazing! It had a great flavor that was full-bodied and robust without being too acidic or bitter. The barista took time to explain different types of coffees available and made sure I got exactly what I wanted.</feedback2>
+		<user2>Gilbert Ricamara</user2>
+		<button6>Subscribe</button6>
+		<menu>Menu</menu>
+		<coffee>Coffee</coffee>
+		<product3>Green Tea</product3>
+		<follow>Follow Us</follow>
+		<location>Makawayan Torrijos Marinduque</location>
+		<call_us>Call Us +639054209497</call_us>
+		<email1>jezreelnoche@gmail.com</email1>
+		<footer>© 2023 All Rights Reserved.  </footer>
+		<footer1>Privacy Policy</footer1>
+	</navbar>
+</Home>

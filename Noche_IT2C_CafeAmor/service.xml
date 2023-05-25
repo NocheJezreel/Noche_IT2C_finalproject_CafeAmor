@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Service>
+	<info>
+		<title>Cafe' Amor</title>
+		<home>Home</home>
+		<about>About</about>
+		<service>Service</service>
+		<coffservice>Coffee Service</coffservice>
+		<testimonial>Testimonial</testimonial>
+		<blog>Blog</blog>
+		<contact>Contact Us</contact>
+		<review>Reviews</review>
+		<call_us>Call Us +639054209497</call_us>
+		<email1>jezreelnoche@gmail.com</email1>
+		<service1>Coffee Services</service1>
+		<content>Welcome to Cafe' Amor, your premier destination for all things coffee! Whether you’re a die-hard espresso fan or an occasional latte sipper, we have something to suit every taste.</content>
+		<product>Red Coffee</product>
+		<description>It is made from red beans, which are small, dark-colored beans native to Central and South America.</description>
+		<product1>Black Coffee</product1>
+		<description1>Black coffee is a beverage made from roasted coffee beans. </description1>
+		<product2>Chocolate Coffee</product2>
+		<description2>It's a simple drink that combines creamy dark chocolate and freshly brewed coffee.</description2>
+		<button4>Book Now Table</button4>
+		<button5>Subscribe</button5>
+		<input_email>Enter your email</input_email>
+		<menu>Menu</menu>
+		<coffee>Coffee</coffee>
+		<product3>Green Tea</product3>
+		<follow>Follow Us</follow>
+		<location>Makawayan Torrijos Marinduque</location>
+		<call_us>Call Us +639054209497</call_us>
+		<email1>jezreelnoche@gmail.com</email1>
+		<footer>© 2023 All Rights Reserved.  </footer>
+		<footer1>Privacy Policy</footer1>
+	</info>
+</Service>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<About>
+	<content>
+		<title>Cafe' Amor</title>
+		<home>Home</home>
+		<about>About</about>
+		<service>Service</service>
+		<coffservice>Coffee Service</coffservice>
+		<testimonial>Testimonial</testimonial>
+		<blog>Blog</blog>
+		<contact>Contact Us</contact>
+		<review>Reviews</review>
+		<call_us>Call Us +639054209497</call_us>
+		<email1>jezreelnoche@gmail.com</email1>
+		<about1>Privacy Policy</about1>
+		<descrip>Our Privacy Policy covers all of our services including online ordering systems as well as any other products or services offered by us on our website or through other channels such as social media sites like Facebook and Twitter. Our policy also explains what types of information are collected from users who visit our site such as IP addresses, device identifiers and cookies used for analytics purposes so that you can make an informed decision about providing us with your personal data before interacting with any of our services online. 
+		We also explain how long certain pieces of user data are retained by us after a purchase has been completed or if they unsubscribe from one of our newsletters – this helps ensure only relevant content is sent out at all times while protecting your privacy rights too! Finally, the policy includes details regarding the security measures taken by Cafe Amor to protect user data both during transmission over networks (such as SSL encryption) and once received in order keep it safe against unauthorized access attempts at all times; these measures include physical safeguards within company premises where applicable too!  
+
+		At Café Amor we value each individual's right to privacy - which means adhering strictly to this Privacy Policy every time someone interacts with one of ourservices either online via web browser-based interactions (e-commerce transactions etc.) , mobile applications/devices (mobile commerce), social media platforms etc.. We hope this document will help clarify some common questions relatedto customer confidentiality and trustworthiness associatedwith doing business digitally today; should you ever find yourself needing more detailed explanations please feel free contactus directly so thatwe can provide further assistance accordingly!</descrip>
+ 		<button>Read More</button>
+		<input_email>Enter your email</input_email>
+		<button1>Subscribe</button1>
+		<coffee>Coffee</coffee>
+		<follow>Follow Us</follow>
+		<product>Red Coffee</product>
+		<product1>Black Coffee</product1>
+		<product2>Chocolate Coffee</product2>
+		<product3>Green Tea</product3>
+		<menu>Menu</menu>
+		<location>Makawayan Torrijos Marinduque</location>
+		<call_us>Call Us +639054209497</call_us>
+		<email1>jezreelnoche@gmail.com</email1>
+		<footer>© 2023 All Rights Reserved.  </footer>
+		<footer1>Privacy Policy</footer1>
+	</content>
+</About>

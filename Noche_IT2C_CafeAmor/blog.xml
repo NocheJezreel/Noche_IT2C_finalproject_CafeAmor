@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Blog>
+	<navbar>
+		<title>Cafe' Amor</title>
+		<home>Home</home>
+		<about>About</about>
+		<service>Service</service>
+		<blog>Blog</blog>
+		<contact>Contact Us</contact>
+		<span>Our blogs</span>
+		<content>When it comes to flavor, there's something for everyone at Cafe' Amor! Whether you're looking for a classic espresso or something more exotic like their signature caramel macchiato blend - they have just what your taste buds are craving! Plus, all of their coffees are made with fresh ingredients that will leave your palate satisfied and wanting more each time.</content>
+		<span1>17-05-2023</span1>
+		<span2>Coffee Daily</span2>
+		<like>1278 Like</like>
+		<comment>76 comment</comment>
+		<content1>Some days make the coffee, other days the coffee makes you.</content1>
+		<span3>18-05-2023</span3>
+		<span4>Brewed Coffee</span4>
+		<like1>3710 Like</like1>
+		<comment1>467 comment</comment1>
+		<content2>Everything I brew, I brew it for you! Have a brewtiful day</content2>
+		<span5>Cafe' Amor</span5>
+		<input_email>Enter your email</input_email>
+		<button>Subscribe</button>
+		<span6>Menu</span6>
+		<button1>Home</button1>
+		<button2>About</button2>
+		<button3>Coffee Service</button3>
+		<button4>Reviews</button4>
+		<button5>Blog</button5>
+		<button6>Contact Us</button6>
+		<content3>Coffee</content3>
+		<product>Black Coffee</product>
+		<product1>Red Coffee</product1>
+		<product2>Coffee Service</product2>
+		<product3>Green Tea</product3>
+		<product4>Chocolate Coffee</product4>
+		<follow>Follow Us</follow>
+		<input_email>Enter your email</input_email>
+		<location>Makawayan Torrijos Marinduque</location>
+		<call_us>Call Us +639054209497</call_us>
+		<email1>jezreelnoche@gmail.com</email1>
+		<footer>© 2023 All Rights Reserved.  </footer>
+		<footer1>Privacy Policy</footer1>
+	</navbar>
+</Blog>
